@@ -1,6 +1,3 @@
-Here's a sample README file for your **Mini E-commerce Cart System** project. You can customize it further if needed:
-
----
 
 # Mini E-commerce Cart System
 
