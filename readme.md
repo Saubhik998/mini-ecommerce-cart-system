@@ -112,5 +112,3 @@ Once the program is running, you can interact with it using specific commands. H
 - Saubhik Dey
 
 ---
-
-You can copy and paste this content into a `README.md` file in your project folder. Feel free to modify any sections or add more details based on your preferences or additional features you implement. Let me know if you need further assistance!
